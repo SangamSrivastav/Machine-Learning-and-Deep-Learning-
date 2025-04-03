@@ -8,3 +8,4 @@ lxml
 imblearn
 statsmodels
 ntlk
+gensim
